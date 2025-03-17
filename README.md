@@ -2,7 +2,7 @@
 https://roadmap.sh/projects/nginx-log-analyser
 ## Instructions for Using
 1. Make the File Executable
-Now, you need to make the file executable using the following command:
+You need to make the file executable using the following command:
 
     ```bash
     chmod +x nginx-log-analyser-awk.sh
