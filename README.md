@@ -1,15 +1,7 @@
 ## Nginx-Log-Analyser
 https://roadmap.sh/projects/nginx-log-analyser
 ## Instructions for Using
-1. Clone the Repository
-First, you need to clone the repository containing your script:
-
-    ```bash
-    git clone <URL_of_your_repository>
-    cd <repository_folder>
-Replace <URL_of_your_repository> with the link to your GitHub repository.
-
-2. Make the File Executable
+1. Make the File Executable
 Now, you need to make the file executable using the following command:
 
     ```bash
