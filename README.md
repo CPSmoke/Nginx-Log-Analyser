@@ -1,6 +1,6 @@
-##Nginx-Log-Analyser
+## Nginx-Log-Analyser
 https://roadmap.sh/projects/nginx-log-analyser
-##Instructions for Using Your Bash Script
+## Instructions for Using
 1. Clone the Repository
 First, you need to clone the repository containing your script:
 
